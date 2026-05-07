@@ -31,4 +31,4 @@ My background combines finance, accounting operations, risk management, and cros
 
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/ricrivera/
-- GitHub projects: https://github.com/ric-rivera?tab=repositories
+- GitHub projects: https://github.com/stars/ric-rivera/lists/ms-data-science-portfolio
