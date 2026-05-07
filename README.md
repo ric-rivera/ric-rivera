@@ -1,16 +1,34 @@
-## Hi there 👋
+# Finance Operations Leader | MS Data Science
 
-<!--
-**ric-rivera/ric-rivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a finance and operations leader focused on billing accuracy, revenue integrity, process improvement, and control effectiveness in highly regulated environments.
 
-Here are some ideas to get you started:
+I recently completed an M.S. in Data Science, which strengthened my ability to apply analytics, automation, and statistical thinking to real business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+- Revenue recovery and billing stabilization
+- Financial controls and operational compliance
+- Workflow redesign and process automation
+- Reporting, dashboards, and decision support
+- Applied data science for operational improvement
+
+## Tools and methods
+- Python
+- SQL
+- Power BI
+- Alteryx
+- R
+- Machine learning and statistical analysis
+
+## Featured themes
+- Financial operations analytics
+- Anomaly detection and variance analysis
+- Reporting automation
+- Process and workflow optimization
+- Data-driven decision making
+
+## Background
+My background combines finance, accounting operations, risk management, and cross-functional leadership across regulated enterprises.
+
+## Connect
+- LinkedIn: [add your LinkedIn link]
+- GitHub projects: [add your project links]
