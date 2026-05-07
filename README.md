@@ -30,5 +30,5 @@ I recently completed an M.S. in Data Science, which strengthened my ability to a
 My background combines finance, accounting operations, risk management, and cross-functional leadership across regulated enterprises.
 
 ## Connect
-- LinkedIn: [https://www.linkedin.com/in/ricrivera/]
-- GitHub projects: [https://github.com/ric-rivera?tab=repositories]
+- LinkedIn: https://www.linkedin.com/in/ricrivera/
+- GitHub projects: https://github.com/ric-rivera?tab=repositories
