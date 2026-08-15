@@ -7,7 +7,7 @@ Recently, I have expanded this operational focus to include evaluating the compu
 
 ### 🚀 Featured Work
 * **[CLOUS: Cross-Linguistic Orthographic Uniqueness Score](https://github.com/ric-rivera/CLOUS-tokenization-metrics)**
-An open-source NLP diagnostic tool and research paper. I developed a character-level surprisal metric to predict the hidden computational costs ("tokenizer tax") of using multilingual geographic entities in Large Language Models.
+An open-source NLP diagnostic tool and research project. I developed a character-level surprisal metric to predict the hidden computational costs ("tokenizer tax") of using multilingual geographic entities in Large Language Models.
 
 ### 💡 What I Work On
 * **Revenue & Risk:** Revenue recovery, billing stabilization, and financial controls.
