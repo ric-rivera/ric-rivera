@@ -1,25 +1,34 @@
-# Hi, I'm Ric Rivera
-**Finance Operations Leader | MS Data Science | Python, SQL, Power BI | Revenue Integrity, Automation & Operational Improvement**
+# Hi, I'm Ric Rivera 👋
 
-I am a finance and operations leader using data science, Python, SQL, Power BI, and automation to improve billing integrity, revenue recovery, control effectiveness, and operational decision-making in regulated enterprises. This profile repository highlights applied analytics, workflow improvement, and professional project work.
+**Finance Operations & Transformation Leader | MBA · MS Data Science**  
+**Applied Analytics · Python · SQL · Automation · AI**
 
-Recently, I have expanded this operational focus to include evaluating the computational efficiency and hidden financial costs of generative AI pipelines.
+I'm a Finance Operations & Transformation leader interested in what happens when financial expertise, operational experience, and technology meet.
+
+Throughout my career, I've worked on complex operational problems involving accounting, revenue recovery, risk, controls, systems, and process transformation. Completing my MS in Data Science expanded the toolkit I bring to those problems, adding Python, SQL, machine learning, statistical analysis, and applied analytics.
+
+This GitHub is where that intersection comes to life. It includes projects exploring analytics, automation, AI, operational improvement, and the economics of emerging technologies.
 
 ### 🚀 Featured Work
-* **[CLOUS: Cross-Linguistic Orthographic Uniqueness Score](https://github.com/ric-rivera/CLOUS-tokenization-metrics)**
-An open-source NLP diagnostic tool and research project. I developed a character-level surprisal metric to predict the hidden computational costs ("tokenizer tax") of using multilingual geographic entities in Large Language Models.
 
-### 💡 What I Work On
-* **Revenue & Risk:** Revenue recovery, billing stabilization, and financial controls.
-* **Process Engineering:** Workflow redesign, reporting automation, and operational decision-making.
-* **Applied Data Science:** Time-series anomaly detection, statistical variance analysis, and operational machine learning.
-* **Cost-Aware AI:** Evaluating the efficiency and hidden financial costs of NLP tokenization.
+* **[CLOUS: Cross-Linguistic Orthographic Uniqueness Score](https://github.com/ric-rivera/CLOUS-tokenization-metrics)**  
+  An open-source NLP research project exploring tokenization fragmentation in multilingual geographic entities and its relationship to computational efficiency. The project reflects a broader interest in the operational and economic implications of enterprise AI systems.
+
+### 💡 What I Explore
+
+* **Finance & Operational Transformation:** Workflow redesign, operational controls, performance management, and scalable operating models.
+* **Applied Analytics:** Statistical analysis, anomaly detection, variance analysis, visualization, and decision support.
+* **Automation:** Applying Python, SQL, analytics tools, and emerging technologies to repetitive and data-intensive workflows.
+* **Applied AI:** Machine learning, NLP, generative AI, and the operational and economic implications of AI systems.
 
 ### 🛠️ Tools & Methods
-* **Languages & Analytics:** Python (Pandas, SciPy, scikit-learn), SQL, R
-* **Enterprise Tools:** Power BI, Alteryx
-* **Domain Expertise:** Financial compliance, workflow improvement, tokenization efficiency
+
+* **Languages & Analytics:** Python · SQL · R
+* **Data & Visualization:** Pandas · SciPy · scikit-learn · Power BI
+* **Automation:** Alteryx · Workflow Automation
+* **Methods:** Statistical Analysis · Machine Learning · NLP · Data Visualization · Anomaly Detection
 
 ### 📫 Connect With Me
+
 * **LinkedIn:** [linkedin.com/in/ricrivera](https://www.linkedin.com/in/ricrivera/)
 * **Portfolio:** [View my Applied Analytics Projects](https://github.com/stars/ric-rivera/lists/applied-analytics)
